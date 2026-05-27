@@ -1,0 +1,30 @@
+Short Report - AI Insight Lab
+
+Team:
+Selma Haxhi
+Pegi Zotaj
+Sara Çela
+
+Institution:
+Canadian Institute of Technology
+AI & Data Science
+
+Project purpose:
+The purpose of this project is to create a simple educational website related to AI and Data Science.
+The website is also used to practice web deployment concepts such as GitHub Pages, DNS records,
+custom domains and HTTPS certificates.
+
+Tools used:
+HTML, CSS, GitHub Pages, custom domain configuration and HTTPS.
+
+Challenges:
+One challenge was understanding the difference between index.html, style.css and script.js.
+Another challenge was learning how DNS and HTTPS are connected with a public website.
+
+Solution:
+We tested the website locally first, then prepared it for GitHub Pages. We also included a section
+inside the website explaining how the publishing process works.
+
+Conclusion:
+This project helped us understand how a website is built and how it becomes publicly accessible
+through a domain name and HTTPS.
