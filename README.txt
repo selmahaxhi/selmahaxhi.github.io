@@ -1,13 +1,5 @@
-AI Insight Lab - More realistic student version
+AI Insight Lab
 
-Open:
-index.html
-
-Do not open:
-style.css
-script.js
-
-This version is intentionally less polished and more natural as a first-year student project.
 It includes:
 - About section
 - Main AI/Data Science topics
